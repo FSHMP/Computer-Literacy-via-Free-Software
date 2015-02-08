@@ -4,7 +4,6 @@
     3. Computer Hardware & Peripherals.
     4. Re-connecting Units with CPU.
     5. Brief Introduction to Software.
-
 2. Getting Familiar with Operating System
     1. Sytem boot & Login
     2. Explore the Application Menu.
@@ -23,7 +22,6 @@
 	    * Identify USB Ports.
 	    * Plugging-in & Plugging out Devices.
 	    * Opening, Copying files To & From.
-
 3. Application Software
     1. Playing Audio & Video.
     2. Calculator & Text Editor.
