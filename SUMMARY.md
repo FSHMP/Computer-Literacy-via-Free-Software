@@ -1,9 +1,9 @@
-1. Introduction to Computers
-    1. What are Computers?
-    2. History of Computers.
-    3. Computer Hardware & Peripherals.
+1. [Introduction to Computers](introduction_to_computers/intro_to_computers.md)
+    1. [What are Computers?](introduction_to_computers/what_are_computers.md)
+    2. [History of Computers](introduction_to_computers/history_of_computers.md)
+    3. [Computer Hardware & Peripherals](introduction_to_computers/computer_hardware.md)
     4. Re-connecting Units with CPU.
-    5. Brief Introduction to Software.
+    5. [Brief Introduction to Software](introduction_to_computers/brief_intro_to_software.md)
 2. Getting Familiar with Operating System
     1. Sytem boot & Login
     2. Explore the Application Menu.
