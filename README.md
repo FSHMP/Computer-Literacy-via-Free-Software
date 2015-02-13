@@ -10,6 +10,8 @@ Why we shouldn't use non-free software or why we should use Free software is out
 
 https://gnu.org/philosophy
 
+**Call for authors** for contribution to the book can be found [here](http://discuss.fsftn.org/t/call-for-contributors-ebook-on-computer-literacy-via-free-software/267). If you are intersted to collaborate, we encourage you to take a look at the above link.
+
 -----
 
 ### License:
