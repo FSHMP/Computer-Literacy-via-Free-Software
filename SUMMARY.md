@@ -26,6 +26,7 @@
     1. Playing Audio & Video.
     2. Calculator & Text Editor.
     3. 2D Painting.
-    4. Word Processor.
-    5. Presentation Tool.
-    6. Spreadsheet Tool.
+    4. [LibreOffice](libre-office/what-is-libre-office.md)
+        * Word Processor.
+        * Presentation Tool.
+        * Spreadsheet Tool.
