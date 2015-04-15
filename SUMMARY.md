@@ -27,7 +27,7 @@
     2. Calculator & Text Editor.
     3. 2D Painting.
     4. [LibreOffice](libre-office/what-is-libre-office.md)
-	* [Opening LibreOffice](libre-office/opening-libreoffice.md)
+        * [Opening LibreOffice](libre-office/opening-libreoffice.md)
         * Word Processor.
         * Presentation Tool.
         * Spreadsheet Tool.
